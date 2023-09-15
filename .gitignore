@@ -1,0 +1,18 @@
+# Compiler files
+cache/
+out/
+
+# Ignores development broadcast logs
+!/broadcast
+/broadcast/*/31337/
+/broadcast/**/dry-run/
+
+# Docs
+docs/
+
+# Dotenv file
+.env
+broadcast/DeployRaffle.s.sol/11155111/run-1694096507.json
+broadcast/DeployRaffle.s.sol/11155111/run-1694096513.json
+broadcast/DeployRaffle.s.sol/11155111/run-1694096558.json
+broadcast/DeployRaffle.s.sol/11155111/run-latest.json
